@@ -1,4 +1,4 @@
-# Pokedex [[Website](https://jvrl18.github.io/Go-ws/public/home.html)] <br>[![wakatime](https://wakatime.com/badge/user/c7a5e8d6-0c47-451a-affe-b7735e691e04/project/a6e479d9-4c61-4613-8425-42218c1cb119.svg?style=for-the-badge)](https://wakatime.com/badge/user/c7a5e8d6-0c47-451a-affe-b7735e691e04/project/a6e479d9-4c61-4613-8425-428c1cb119)
+# Pokedex [[Website](https://jvrl18.github.io/pokedex/pokedex)] <br>[![wakatime](https://wakatime.com/badge/user/c7a5e8d6-0c47-451a-affe-b7735e691e04/project/a6e479d9-4c61-4613-8425-42218c1cb119.svg?style=for-the-badge)](https://wakatime.com/badge/user/c7a5e8d6-0c47-451a-affe-b7735e691e04/project/a6e479d9-4c61-4613-8425-428c1cb119)
 
 
 
